@@ -1,0 +1,1 @@
+Upload this folder to GitHub and deploy to Vercel. Includes website, assets, and CSS.
